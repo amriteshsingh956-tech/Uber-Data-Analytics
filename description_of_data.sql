@@ -1,0 +1,9 @@
+SHOW TABLES;
+DESCRIBE cancellations;
+DESCRIBE drivers;
+DESCRIBE locations;
+DESCRIBE payments;
+DESCRIBE reviews;
+DESCRIBE riders;
+DESCRIBE trips;
+DESCRIBE users;
