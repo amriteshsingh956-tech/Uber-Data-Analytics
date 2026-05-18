@@ -35,6 +35,7 @@ The project demonstrates SQL skills ranging from beginner to advanced level, inc
 # 🧩 EER Diagram
 
 The EER diagram represents relationships between all tables in the database.
+<img width="933" height="766" alt="image" src="https://github.com/user-attachments/assets/e5015008-1cf5-40df-9058-fee0d51c6d77" />
 
 ---
 
