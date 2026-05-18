@@ -444,15 +444,18 @@ GROUP BY driver_id;
 
 # 📈 Tableau Dashboard Features
 
-* Interactive KPI Cards
-* Revenue Trend Analysis
-* Trip Status Distribution
-* Ride Demand Heatmaps
-* Driver Performance Tracking
-* Rider Activity Insights
-* Payment Method Visualization
-* Surge Pricing Impact Analysis
-* Dynamic Filtering & Drilldowns
+- The platform contains a total of 2000 users, including 1600 riders and 400 drivers.
+- Houston recorded the highest number of users among all cities.
+- User distribution across cities remained relatively balanced, indicating broad platform adoption.
+- The trend of new user registrations peaked around 2021.
+- A decline in new users joining was observed in 2024.
+- Rider registrations consistently exceeded driver registrations throughout the years.
+- Driver onboarding showed a declining trend after 2022.
+- New York and Houston had the highest driver concentration.
+- Chicago and Los Angeles showed comparatively lower driver counts.
+- The dashboard highlights potential supply-demand imbalance due to slower driver growth compared to rider growth.
+- User acquisition trends suggest the need for improved retention and onboarding strategies in recent years.
+- City-wise distribution analysis helps identify regions with higher operational activity and market penetration.
 
 ---
 
