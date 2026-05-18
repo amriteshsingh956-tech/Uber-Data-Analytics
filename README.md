@@ -1,4 +1,4 @@
-# 🚖 UBER RideShare Analytics using MySQL
+# 🚖 UBER RideShare Analytics using MySQL and User Data Visualization Using Tableau
 
 ## 📌 Project Overview
 This project focuses on analyzing ride-sharing operational data using MySQL to derive business insights related to trip demand, revenue generation, driver performance, rider activity, cancellations, and surge pricing.
@@ -14,6 +14,7 @@ The project demonstrates SQL skills ranging from beginner to advanced level, inc
 - MySQL
 - MySQL Workbench
 - GitHub
+- Tableau
 
 ---
 
@@ -38,6 +39,8 @@ The EER diagram represents relationships between all tables in the database.
 <img width="933" height="766" alt="image" src="https://github.com/user-attachments/assets/e5015008-1cf5-40df-9058-fee0d51c6d77" />
 
 ---
+
+
 
 # 📊 SQL Analysis Performed
 
@@ -130,6 +133,15 @@ Evaluated average fare, duration, and distance for drivers.
 - HAVING
 - Running Totals
 - KPI Analytics
+
+---
+
+---
+
+# 🧩 UBER USER DATA ANALYTICS USING TABLEAU
+
+
+<img width="2338" height="1654" alt="image" src="https://github.com/user-attachments/assets/080ffd91-de7b-4b1e-90bc-a04e204cf437" />
 
 ---
 
