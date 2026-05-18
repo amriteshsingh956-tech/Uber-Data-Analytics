@@ -1,4 +1,4 @@
-````markdown
+
 # 🚖 UBER RideShare Analytics using MySQL and User Data Visualization Using Tableau
 
 ## 📌 Project Overview
